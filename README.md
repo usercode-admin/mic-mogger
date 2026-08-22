@@ -51,13 +51,13 @@ pip install numpy sounddevice soundfile keyboard customtkinter
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/buff-mic.git
-   cd buff-mic
+   https://github.com/usercode-admin/mic-mogger.git
+   cd mic-mogger
    ```
 
 2. **Run the Application:**
    ```bash
-   python main.py
+   python sigger.py
    ```
 
 3. **Configure Audio Routing:**
