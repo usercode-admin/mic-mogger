@@ -1,7 +1,7 @@
 # mic-mogger
 This tool mods your microphone's sound to be extremely loud in real time. 
 
-# 🎙️ Buff Mic (kendrk.sh)
+# 🎙️ Buff Mic 
 
 > A real-time high-gain audio booster, soundboard, and ear-destroying distortion tool designed for funny voice chats, gaming memes, and harmless pranks.
 
