@@ -1,0 +1,18 @@
+#include <windows.h>
+
+#define IDI_APP       100
+#define IDR_VB_INF    101
+#define IDR_VB_SYS    102
+#define IDR_VB_CAT    103
+#define IDR_VB_SETUP  104
+#define IDR_VB_PANEL  105
+
+1 24 "app.manifest"
+
+IDI_APP   ICON   "main.ico"
+
+IDR_VB_INF     RCDATA  "vb/vbMmeCable64_win10.inf"
+IDR_VB_SYS     RCDATA  "vb/vbaudio_cable64_win10.sys"
+IDR_VB_CAT     RCDATA  "vb/vbaudio_cable64_win10.cat"
+IDR_VB_SETUP   RCDATA  "vb/VBCABLE_Setup_x64.exe"
+IDR_VB_PANEL   RCDATA  "vb/VBCABLE_ControlPanel.exe"
